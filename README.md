@@ -79,7 +79,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 For any inquiries or further information, please contact:
 
-- **Joseph Hansen**
+**Joseph Hansen**
 - **Email:** [Email](mailto:26100428@sun.ac.za)
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/joseph-h-926060128/)
 
